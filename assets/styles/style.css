@@ -41,7 +41,7 @@ section1 a{
     color: white;
     display: flex;
     justify-content: center;
-    margin: 10px 60px 0px 0px;
+    margin: 10px 60px 0px 60px;
     padding: 12px 12px;
     text-decoration: none;
     border: 1px solid black;
